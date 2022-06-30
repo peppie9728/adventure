@@ -1,0 +1,14 @@
+C:\Users\Pepijn\source\repos\text based adventure\text based adventure\bin\Debug\netcoreapp3.1\text based adventure.exe
+C:\Users\Pepijn\source\repos\text based adventure\text based adventure\bin\Debug\netcoreapp3.1\text based adventure.deps.json
+C:\Users\Pepijn\source\repos\text based adventure\text based adventure\bin\Debug\netcoreapp3.1\text based adventure.runtimeconfig.json
+C:\Users\Pepijn\source\repos\text based adventure\text based adventure\bin\Debug\netcoreapp3.1\text based adventure.runtimeconfig.dev.json
+C:\Users\Pepijn\source\repos\text based adventure\text based adventure\bin\Debug\netcoreapp3.1\text based adventure.dll
+C:\Users\Pepijn\source\repos\text based adventure\text based adventure\bin\Debug\netcoreapp3.1\text based adventure.pdb
+C:\Users\Pepijn\source\repos\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.csproj.AssemblyReference.cache
+C:\Users\Pepijn\source\repos\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepijn\source\repos\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.AssemblyInfoInputs.cache
+C:\Users\Pepijn\source\repos\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.AssemblyInfo.cs
+C:\Users\Pepijn\source\repos\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.csproj.CoreCompileInputs.cache
+C:\Users\Pepijn\source\repos\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.dll
+C:\Users\Pepijn\source\repos\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.pdb
+C:\Users\Pepijn\source\repos\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.genruntimeconfig.cache
