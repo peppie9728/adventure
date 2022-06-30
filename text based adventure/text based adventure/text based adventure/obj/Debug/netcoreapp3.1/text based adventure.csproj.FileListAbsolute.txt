@@ -12,3 +12,16 @@ C:\Users\Pepijn\source\repos\text based adventure\text based adventure\obj\Debug
 C:\Users\Pepijn\source\repos\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.dll
 C:\Users\Pepijn\source\repos\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.pdb
 C:\Users\Pepijn\source\repos\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.genruntimeconfig.cache
+C:\Users\phhme\OneDrive - Noorderpoort\Documenten\GitHub\adventure\text based adventure\text based adventure\text based adventure\bin\Debug\netcoreapp3.1\text based adventure.exe
+C:\Users\phhme\OneDrive - Noorderpoort\Documenten\GitHub\adventure\text based adventure\text based adventure\text based adventure\bin\Debug\netcoreapp3.1\text based adventure.deps.json
+C:\Users\phhme\OneDrive - Noorderpoort\Documenten\GitHub\adventure\text based adventure\text based adventure\text based adventure\bin\Debug\netcoreapp3.1\text based adventure.runtimeconfig.json
+C:\Users\phhme\OneDrive - Noorderpoort\Documenten\GitHub\adventure\text based adventure\text based adventure\text based adventure\bin\Debug\netcoreapp3.1\text based adventure.runtimeconfig.dev.json
+C:\Users\phhme\OneDrive - Noorderpoort\Documenten\GitHub\adventure\text based adventure\text based adventure\text based adventure\bin\Debug\netcoreapp3.1\text based adventure.dll
+C:\Users\phhme\OneDrive - Noorderpoort\Documenten\GitHub\adventure\text based adventure\text based adventure\text based adventure\bin\Debug\netcoreapp3.1\text based adventure.pdb
+C:\Users\phhme\OneDrive - Noorderpoort\Documenten\GitHub\adventure\text based adventure\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.csprojAssemblyReference.cache
+C:\Users\phhme\OneDrive - Noorderpoort\Documenten\GitHub\adventure\text based adventure\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.AssemblyInfoInputs.cache
+C:\Users\phhme\OneDrive - Noorderpoort\Documenten\GitHub\adventure\text based adventure\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.AssemblyInfo.cs
+C:\Users\phhme\OneDrive - Noorderpoort\Documenten\GitHub\adventure\text based adventure\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.csproj.CoreCompileInputs.cache
+C:\Users\phhme\OneDrive - Noorderpoort\Documenten\GitHub\adventure\text based adventure\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.dll
+C:\Users\phhme\OneDrive - Noorderpoort\Documenten\GitHub\adventure\text based adventure\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.pdb
+C:\Users\phhme\OneDrive - Noorderpoort\Documenten\GitHub\adventure\text based adventure\text based adventure\text based adventure\obj\Debug\netcoreapp3.1\text based adventure.genruntimeconfig.cache

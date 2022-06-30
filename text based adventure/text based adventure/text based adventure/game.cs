@@ -41,13 +41,23 @@ namespace text_based_adventure
             bandage.ChangeConsume(1,70);
             Item smakois = new Item(6,"smakois",true,"a bag of smakois, cheeseflavoured chips",4);
             
-            Location l2 = new Location("De punt","wacke plek",true,1909);
+            Location l2 = new Location("Bank","wacke plek",true,1909);
             
-            Item mafioso = new Item(3,"ids",false, "een fries persoon uit haren",1);
+            Item mafioso = new Item(3,"mafioso",false, "a dangerous man in the mafia",1);
 
             Item safe = new Item(8, "safe", true, "a small safe probably containing the diamond.",5);
 
             Location l3 = new Location("living room","its a small room barely any windows",true,2000);
+
+            Location l4 = new Location("rooftop","your on the roof top.",true,6969);
+
+            Location l5 = new Location("Main Hallway", "this is the main hallway", false, 0);
+
+            Location l6 = new Location("Stairway", "this is the stairway of the bank",false,0);
+
+            Location l7 = new Location("vault","You are in!! grab the diamond and get the hell out of here!!! be careful you set of the alarm",true,20000);
+
+`           Location l8 = new Location("backroom","this room might lead somewhere",true,200);
 
             
             
